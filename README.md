@@ -1,0 +1,1 @@
+This file consist all project that was created during learning process
